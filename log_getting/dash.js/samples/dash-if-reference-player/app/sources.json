@@ -4,16 +4,16 @@
       "name": "QoEmodel recipe",
       "submenu": [
         {
-          "url": "http://192.168.90.10/nagashima/sdnDASH/dashContent/bigbuckbunny1080p/bigbuckbunny1080p_MultiReso.mpd",
-          "name": "bigbuckbunny"
+          "url": "http://133.9.250.223/dif-dash-content/shinohara/360_movies/roller_360_90s_left_up_high.mpd",
+          "name": "left_up_high"
         },
         {
-          "url": "http://192.168.90.10/nagashima/sdnDASH/dashContent/elephantsdream1080p/elephantsdream1080p_MultiReso.mpd",
-          "name": "elephantsdream"
+          "url": "http://133.9.250.223/dif-dash-content/shinohara/360_movies/roller_360_90s_whole_high.mpd",
+          "name": "whole_high"
         },
         {
-          "url": "http://192.168.90.10/nagashima/sdnDASH/dashContent/sintel1080p/sintel1080p_MultiReso.mpd",
-          "name": "sintel"
+          "url": "http://133.9.250.223/dif-dash-content/shinohara/360_movies/roller_360_90s_left_high.mpd",
+          "name": "left_high"
         }
       ]
     }
